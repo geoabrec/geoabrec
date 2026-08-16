@@ -1,5 +1,5 @@
-Learning C & mathematics.
+### Learning C & mathematics.
 
-# Projects:
+## Projects:
 
 WIP
