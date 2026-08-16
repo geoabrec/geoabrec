@@ -1,8 +1,5 @@
-# Building:
+Learning C & mathematics.
 
-- Learning Python & C.
-- Learning Mathematics & Physics.
+# Projects:
 
-# Built:
-
-- *In progress*
+WIP
