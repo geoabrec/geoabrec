@@ -2,4 +2,4 @@
 
 ## Projects:
 
-WIP
+- Working through C Programming: A Modern Approach. Documenting each exercise/project completed.
