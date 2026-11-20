@@ -1,1 +1,1 @@
-I like mathematics, programming & artificial intelligence.
+I like mathematics, programming, quantitative finance & artificial intelligence.
