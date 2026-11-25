@@ -20,5 +20,5 @@ move into quantitative development.
 ### Shipped:
 
 - [**Boot.dev's Python beginner course**](https://www.boot.dev/certificates/6b686ae6-cc1e-443e-9210-98dfe106baff)
-- [**Boot.dev's Linux Course**](https://www.boot.dev/certificates/350891b3-7fff-4a06-a7d1-247866661827)
+- [**Boot.dev's Linux course**](https://www.boot.dev/certificates/350891b3-7fff-4a06-a7d1-247866661827)
 - **Learned to quit Neovim**
