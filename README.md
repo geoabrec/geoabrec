@@ -10,12 +10,14 @@ move into quantitative development.
 
 ### Currently working:
 
-- **Boot.dev's Python beginner course**
+- **Simple arithmetic CLI calculator written in Python**
+- **Boot.dev's Linux course**
 
 ### Next project:
 
-- **Simple arithmetic CLI calculator written in Python**
+- **Boot.dev's Build a BookBot guided project**
 
 ### Shipped:
 
+- [**Boot.dev's Python beginner course**](https://www.boot.dev/certificates/6b686ae6-cc1e-443e-9210-98dfe106baff)
 - **Learned to quit Neovim**
